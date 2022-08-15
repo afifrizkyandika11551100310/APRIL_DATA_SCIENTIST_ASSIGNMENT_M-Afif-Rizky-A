@@ -27,6 +27,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  
+  <a href="https://www.aprilasia.com/en/">
+    <img src="APRIL.jpg" alt="Logo" width="200" height="90">
+  </a>
 
   <h3 align="center">APRIL DATA SCIENTIST ASSIGNMENT</h3>
 
