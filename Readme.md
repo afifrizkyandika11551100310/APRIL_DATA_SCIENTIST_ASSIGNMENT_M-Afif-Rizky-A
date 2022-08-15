@@ -37,7 +37,7 @@
   <p align="center">
     M AFIF RIZKY A
     <br />
-    <a href="https://github.com/afifrizkyandika11551100310/APRIL_DATA_SCIENTIST_ASSIGNMENT_M-Afif-Rizky-A"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/afifrizkyandika11551100310/APRIL_DATA_SCIENTIST_ASSIGNMENT_M-Afif-Rizky-A"><strong>Explore the docs</strong></a>
     <br />
     <br />
     <a href = "https://mail.google.com/mail/">Email : afifrizky933@gmail.com / 23521034@std.stei.itb.ac.id</a>
